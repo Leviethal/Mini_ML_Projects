@@ -33,7 +33,7 @@ This repository contains a set of mini machine learning projects designed to cov
 - Jupyter Notebooks
 - scikit-learn
 - pandas, numpy, matplotlib, seaborn
-- XGBoost
+- XGBoost, Linear Regression, Logistic Regression, and many more such libraries
 - Natural Language Toolkit (for NLP)
 - StandardScaler, LabelEncoder, OneHotEncoder
 - Model evaluation: accuracy, precision, recall, confusion matrix
@@ -44,5 +44,5 @@ This repository contains a set of mini machine learning projects designed to cov
 
 1. Clone this repository.
 2. Navigate into any project directory.
-3. Open the notebook (usually `model.ipynb`) with Jupyter or VS Code.
+3. Open the notebook with Jupyter or VS Code.
 4. Run the cells to see preprocessing, training, evaluation, and results.

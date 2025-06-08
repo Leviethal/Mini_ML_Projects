@@ -46,3 +46,6 @@ This repository contains a set of mini machine learning projects designed to cov
 2. Navigate into any project directory.
 3. Open the notebook with Jupyter or VS Code.
 4. Run the cells to see preprocessing, training, evaluation, and results.
+
+## 📄 License
+This project is licensed under the [MIT License](./LICENSE).
